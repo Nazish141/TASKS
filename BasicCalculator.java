@@ -32,10 +32,10 @@ public class BasicCalculator{
             }
             break;
             default:
-            System.out.print("invalid operation,please enter only enter +,-,*,/");
+            System.out.print("invalid operation,please enter only +,-,*,/");
         
          }
          scanner.close();
-        }
+    }
  }
 
