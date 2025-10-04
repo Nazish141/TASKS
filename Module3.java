@@ -8,7 +8,7 @@ public class Module3 {
         int userguess=0;
         int attempts =0;
         System.out.println("welcome to number guessing game!");
-        System.out.println("enter the number between 1 and 100");
+        System.out.println("enter the number between 1 and 100:");
         while(true){
            System.out.println("numbertoguess="+numbertoguess);
             System.out.print("enter your guess:");
