@@ -18,7 +18,7 @@ public class Module3 {
                 System.out.println("too low please try again!");
                 
 
-            }else if(userguess>numbertoguess){
+            }else if(userguess>numbertoguess){  
                 System.out.println("too high please try again!");
                 
 
